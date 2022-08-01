@@ -16,3 +16,7 @@ Tells you how your data is clustered, you can then analyse it accordingly.
 # 3. GSEA
 Gives you biological insights about the differentially expressed genes. 
 Using various libraries (Gene Ontology, Reactome, WikiPathways etc) and custom gene set.
+
+# 4. GSEA with a custom gene set
+As the function gseGO/KEGG in ClusterProfiler only gives you information related to pre-existing datasets, I then made a custom dataset using cell type makrer data from a paper, and then used it to gain novel insights from my sample dataset. 
+
