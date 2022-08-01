@@ -2,7 +2,7 @@
 RNA sequencing analysis in R from scratch (only need NumReads)
 
 RNA sequencing gives you raw reads as NumReads. I've done further analysis using the same:
-(Project -  I had RNA sequencing data from 6 samples (2*2 diabetic and 2*1 control))
+(Project -  I had RNA sequencing data from 6 samples (2X2 diabetic and 2X1 control))
 
 # 1. DESeq2
 Commonly used tool for Differential Expression Gene Analysis.
